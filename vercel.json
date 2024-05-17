@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://tripeasy.io/$1"
+ }
+  ]
+}
